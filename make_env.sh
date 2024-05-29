@@ -20,6 +20,10 @@ packages=(
     scikit-learn
     wandb
     tqdm
+    ipykernel
+    jupyter
+    ipywidgets
+    timm
 )
 
 # Install packages using pip
