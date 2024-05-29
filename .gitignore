@@ -2,6 +2,7 @@
 *_logs/
 Audio_XenoCanto/
 wandb/
+*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
