@@ -3,6 +3,7 @@
 Audio_XenoCanto/
 wandb/
 *.tar.gz
+myenv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

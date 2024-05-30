@@ -6,6 +6,10 @@ if [[ $EUID -ne 0 ]]; then
    exit 1
 fi
 
+# make venv and activate
+python3 -m venv myenv
+source myenv/bin/activate
+
 # Update pip to the latest version
 echo "Updating pip..."
 pip install --upgrade pip
