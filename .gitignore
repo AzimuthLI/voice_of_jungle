@@ -1,9 +1,11 @@
 # datasets and logs
 *_logs/
 Audio_XenoCanto/
+Audio_GreaterManaus/
 wandb/
 *.tar.gz
 myenv/
+*.wav 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
