@@ -2,6 +2,7 @@
 *_logs/
 Audio_XenoCanto/
 Audio_GreaterManaus/
+Audio_GreaterManaus_part_2/
 wandb/
 *.tar.gz
 myenv/
